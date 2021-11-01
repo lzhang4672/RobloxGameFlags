@@ -1,0 +1,6 @@
+{
+    "RobotDog": {
+        "BaseHealth" : 200,
+        "BaseAttack" : 0.2
+    }
+}
