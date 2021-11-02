@@ -1,3 +1,4 @@
 {
-    "InviteProgram": true   
+    "InviteProgram": true,
+    "DebugMode"    : true  
 }
