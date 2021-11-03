@@ -1,24 +1,26 @@
 {
-    "RobotDog": {
-        "Health"       : 210,
-        "Damage"       : 2.5,
-        "HealthFactor" : 15,
-        "DamageFactor" : 0.15
-    },
-    "RepairRobot": {
-        "Health"             : 200,
-        "HealthScale"        : 45,
-        "DrillDamage"        : 1,
-        "DrillDamageScale"   : 0.12,
-        "FlameThrowerDamage" : [
-            10,
-            5,
-            3
-        ],
-        "FlameDuration"     : 12,
-        "LaserDamage"       : 5,
-        "LaserDamageScale"  : 0.3,
-        "SpinDamage"        : 10,
-        "SpinDamageScale"   : 0.38
+    "NPCS" : {
+        "RobotDog": {
+            "Health"       : 210,
+            "Damage"       : 2.5,
+            "HealthFactor" : 15,
+            "DamageFactor" : 0.15
+        },
+        "RepairRobot": {
+            "Health"             : 200,
+            "HealthScale"        : 45,
+            "DrillDamage"        : 1,
+            "DrillDamageScale"   : 0.12,
+            "FlameThrowerDamage" : [
+                10,
+                5,
+                3
+            ],
+            "FlameDuration"     : 12,
+            "LaserDamage"       : 5,
+            "LaserDamageScale"  : 0.3,
+            "SpinDamage"        : 10,
+            "SpinDamageScale"   : 0.38
+        }
     }
 }
