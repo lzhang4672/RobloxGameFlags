@@ -13,8 +13,9 @@
         "FlameThrowerDamage" : [
             10,
             5,
-            2
+            3
         ],
+        "FlameDuration"     : 12,
         "LaserDamage"       : 5,
         "LaserDamageScale"  : 0.3,
         "SpinDamage"        : 10,
