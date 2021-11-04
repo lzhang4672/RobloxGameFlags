@@ -22,5 +22,37 @@
             "SpinDamage"        : 10,
             "SpinDamageScale"   : 0.38
         }
-    }
+    },
+    "GAMES" : {
+        "ControlRoom": {
+            "WinCount"     : 6,
+            "LoseDamage"   : 10,
+            "MinCountdown" : 6,
+            "MaxCountdown" : 10,
+            "MinPause"     : 2,
+            "MaxPause"     : 5
+        },
+        "KeycardSearch": {
+            "SearchTime"   : 30,
+            "LoseDamage"   : 10
+        },
+        "MovingCrushers": {
+            "HitDamage"              : 8,
+            "HitMultiplier"          : 10,
+            "HitTime"                : 0.05,
+            "DownTime"               : 1.5,
+            "LoseDamage"             : 25,
+            "IntermediateLoseDamage" : 15
+        },
+        "SecurityLaser": {
+            "LaserDamage" : 10,
+            "HitTime"     : 0.05,
+            "LoseDamage"  : 25
+        },
+        "VehicleRepair": {
+            "Scale"     : 0.5,
+            "MaxTires"  : 6,
+            "MinTires"  : 2
+        }
+    },
 }
