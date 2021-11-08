@@ -54,5 +54,42 @@
             "MaxTires"  : 6,
             "MinTires"  : 2
         }
-    }
+    },
+    "Roles" : [
+        {
+            "Name"  : "Intern",
+            "Wins"  : 0,
+            "Color" : "#4ab1ff"
+        },
+        {
+            "Name"  : "Experienced Employee",
+            "Wins"  : 1,
+            "Color" : "#aeffd3" 
+        },
+        {
+            "Name"  : "Senior Employee",
+            "Wins"  : 2,
+            "Color" : "#eea7ff" 
+        },
+        {
+            "Name"  : "Manager",
+            "Wins"  : 4,
+            "Color" : "#fff8d2" 
+        },
+        {
+            "Name"  : "Director",
+            "Wins"  : 8,
+            "Color" : "#ffe6e7" 
+        },
+        {
+            "Name"  : "Executive",
+            "Wins"  : 15,
+            "Color" : "#e875ff" 
+        },
+        {
+            "Name"  : "CEO",
+            "Wins"  : 20,
+            "Color" : "#ff5d5d" 
+        }
+    ]
 }
