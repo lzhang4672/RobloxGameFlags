@@ -1,25 +1,25 @@
 {
     "NPCS" : {
         "RobotDog": {
-            "Health"       : 210,
-            "Damage"       : 2.5,
+            "Health"       : 100,
+            "Damage"       : 0.5,
             "HealthFactor" : 15,
             "DamageFactor" : 0.15
         },
         "RepairRobot": {
-            "Health"             : 100,
-            "HealthScale"        : 45,
-            "DrillDamage"        : 1,
-            "DrillDamageScale"   : 0.12,
+            "Health"             : 75,
+            "HealthScale"        : 30,
+            "DrillDamage"        : 0.4,
+            "DrillDamageScale"   : 0.1,
             "FlameThrowerDamage" : [
                 10,
                 5,
                 3
             ],
-            "FlameDuration"     : 12,
-            "LaserDamage"       : 5,
+            "FlameDuration"     : 6,
+            "LaserDamage"       : 2,
             "LaserDamageScale"  : 0.3,
-            "SpinDamage"        : 10,
+            "SpinDamage"        : 6,
             "SpinDamageScale"   : 0.38
         }
     },
@@ -37,15 +37,15 @@
             "LoseDamage"   : 10
         },
         "MovingCrushers": {
-            "HitDamage"              : 8,
+            "HitDamage"              : 4,
             "HitMultiplier"          : 10,
             "HitTime"                : 0.05,
-            "DownTime"               : 1.5,
+            "DownTime"               : 1,
             "LoseDamage"             : 25,
             "IntermediateLoseDamage" : 15
         },
         "SecurityLaser": {
-            "LaserDamage" : 10,
+            "LaserDamage" : 5,
             "HitTime"     : 0.05,
             "LoseDamage"  : 25
         },
