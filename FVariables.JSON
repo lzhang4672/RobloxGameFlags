@@ -7,7 +7,7 @@
             "DamageFactor" : 0.15
         },
         "RepairRobot": {
-            "Health"             : 150,
+            "Health"             : 75,
             "HealthScale"        : 50,
             "DrillDamage"        : 0.4,
             "DrillDamageScale"   : 0.1,
