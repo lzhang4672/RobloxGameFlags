@@ -7,19 +7,19 @@
             "DamageFactor" : 0.15
         },
         "RepairRobot": {
-            "Health"             : 200,
+            "Health"             : 100,
             "HealthScale"        : 50,
-            "DrillDamage"        : 1.2,
+            "DrillDamage"        : 1,
             "DrillDamageScale"   : 0.15,
             "FlameThrowerDamage" : [
                 10,
                 5,
                 3
             ],
-            "FlameDuration"     : 10,
+            "FlameDuration"     : 7,
             "LaserDamage"       : 5,
             "LaserDamageScale"  : 0.3,
-            "SpinDamage"        : 10,
+            "SpinDamage"        : 8,
             "SpinDamageScale"   : 0.38
         }
     },
