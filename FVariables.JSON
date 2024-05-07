@@ -7,7 +7,7 @@
             "DamageFactor" : 0.15
         },
         "RepairRobot": {
-            "Health"             : 100,
+            "Health"             : 150,
             "HealthScale"        : 50,
             "DrillDamage"        : 1,
             "DrillDamageScale"   : 0.15,
@@ -33,7 +33,7 @@
             "MaxPause"     : 5
         },
         "KeycardSearch": {
-            "SearchTime"   : 30,
+            "SearchTime"   : 45,
             "LoseDamage"   : 10
         },
         "MovingCrushers": {
@@ -45,7 +45,7 @@
             "IntermediateLoseDamage" : 15
         },
         "SecurityLaser": {
-            "LaserDamage" : 5,
+            "LaserDamage" : 10,
             "HitTime"     : 0.05,
             "LoseDamage"  : 25
         },
@@ -58,40 +58,40 @@
     "DATA" : {
         "Roles" : [
             {
-                "Name"  : "Intern",
-                "Wins"  : 0,
-                "Color" : "#4ab1ff"
-            },
-            {
-                "Name"  : "Experienced Employee",
-                "Wins"  : 1,
-                "Color" : "#aeffd3" 
-            },
-            {
-                "Name"  : "Senior Employee",
-                "Wins"  : 2,
-                "Color" : "#eea7ff" 
-            },
-            {
-                "Name"  : "Manager",
-                "Wins"  : 4,
-                "Color" : "#fff8d2" 
-            },
-            {
-                "Name"  : "Director",
-                "Wins"  : 8,
-                "Color" : "#ffe6e7" 
-            },
-            {
-                "Name"  : "Executive",
-                "Wins"  : 15,
-                "Color" : "#e875ff" 
-            },
-            {
-                "Name"  : "CEO",
-                "Wins"  : 20,
-                "Color" : "#ff5d5d" 
-            }
+        		Name  = "New Arrival";
+        		Wins  = 0;
+        		Color = "#4ab1ff";
+        	},
+        	{
+        		Name  = "Survivor";
+        		Wins  = 1;
+        		Color = "#aeffd3";
+        	},
+        	{
+        		Name  = "Veteran Survivor";
+        		Wins  = 2;
+        		Color = "#eea7ff";
+        	},
+        	{
+        		Name  = "Escape Artist";
+        		Wins  = 4;
+        		Color = "#fff8d2";
+        	},
+        	{
+        		Name  = "Evasion Expert";
+        		Wins  = 8;
+        		Color = "#ffe6e7";
+        	},
+        	{
+        		Name = "Escape Specialist";
+        		Wins = 15;
+        		Color = "#e875ff";
+        	},
+        	{
+        		Name = "Apex Survivor";
+        		Wins = 20;
+        		Color = "#ff5d5d";
+        	}
         ]
     }
 }
