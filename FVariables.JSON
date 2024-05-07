@@ -58,39 +58,39 @@
     "DATA" : {
         "Roles" : [
             {
-        		Name  = "New Arrival";
-        		Wins  = 0;
-        		Color = "#4ab1ff";
+        		Name  : "New Arrival",
+        		Wins  : 0,
+        		Color : "#4ab1ff"
         	},
         	{
-        		Name  = "Survivor";
-        		Wins  = 1;
-        		Color = "#aeffd3";
+        		Name  : "Survivor",
+        		Wins  : 1,
+        		Color : "#aeffd3"
         	},
         	{
-        		Name  = "Veteran Survivor";
-        		Wins  = 2;
-        		Color = "#eea7ff";
+        		Name  : "Veteran Survivor",
+        		Wins  : 2,
+        		Color : "#eea7ff"
         	},
         	{
-        		Name  = "Escape Artist";
-        		Wins  = 4;
-        		Color = "#fff8d2";
+        		Name  : "Escape Artist",
+        		Wins  : 4,
+        		Color : "#fff8d2"
         	},
         	{
-        		Name  = "Evasion Expert";
-        		Wins  = 8;
-        		Color = "#ffe6e7";
+        		Name  : "Evasion Expert",
+        		Wins  : 8,
+        		Color : "#ffe6e7"
         	},
         	{
-        		Name = "Escape Specialist";
-        		Wins = 15;
-        		Color = "#e875ff";
+        		Name : "Escape Specialist",
+        		Wins : 15,
+        		Color : "#e875ff"
         	},
         	{
-        		Name = "Apex Survivor";
-        		Wins = 20;
-        		Color = "#ff5d5d";
+        		Name : "Apex Survivor",
+        		Wins : 20,
+        		Color : "#ff5d5d"
         	}
         ]
     }
