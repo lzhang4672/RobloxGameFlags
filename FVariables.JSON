@@ -1,97 +1,97 @@
 {
-    "NPCS" : {
+    "NPCS": {
         "RobotDog": {
-            "Health"       : 70,
-            "Damage"       : 0.25,
-            "HealthFactor" : 15,
-            "DamageFactor" : 0.15
+            "Health": 70,
+            "Damage": 0.25,
+            "HealthFactor": 15,
+            "DamageFactor": 0.15
         },
         "RepairRobot": {
-            "Health"             : 150,
-            "HealthScale"        : 50,
-            "DrillDamage"        : 1,
-            "DrillDamageScale"   : 0.15,
-            "FlameThrowerDamage" : [
+            "Health": 150,
+            "HealthScale": 50,
+            "DrillDamage": 1,
+            "DrillDamageScale": 0.15,
+            "FlameThrowerDamage": [
                 10,
                 5,
                 3
             ],
-            "FlameDuration"     : 7,
-            "LaserDamage"       : 5,
-            "LaserDamageScale"  : 0.3,
-            "SpinDamage"        : 8,
-            "SpinDamageScale"   : 0.38
+            "FlameDuration": 7,
+            "LaserDamage": 5,
+            "LaserDamageScale": 0.3,
+            "SpinDamage": 8,
+            "SpinDamageScale": 0.38
         }
     },
-    "GAMES" : {
+    "GAMES": {
         "ControlRoom": {
-            "WinCount"     : 6,
-            "LoseDamage"   : 10,
-            "MinCountdown" : 6,
-            "MaxCountdown" : 10,
-            "MinPause"     : 2,
-            "MaxPause"     : 5
+            "WinCount": 6,
+            "LoseDamage": 10,
+            "MinCountdown": 6,
+            "MaxCountdown": 10,
+            "MinPause": 2,
+            "MaxPause": 5
         },
         "KeycardSearch": {
-            "SearchTime"   : 45,
-            "LoseDamage"   : 10
+            "SearchTime": 45,
+            "LoseDamage": 10
         },
         "MovingCrushers": {
-            "HitDamage"              : 4,
-            "HitMultiplier"          : 10,
-            "HitTime"                : 0.05,
-            "DownTime"               : 1,
-            "LoseDamage"             : 25,
-            "IntermediateLoseDamage" : 15
+            "HitDamage": 4,
+            "HitMultiplier": 10,
+            "HitTime": 0.05,
+            "DownTime": 1,
+            "LoseDamage": 25,
+            "IntermediateLoseDamage": 15
         },
         "SecurityLaser": {
-            "LaserDamage" : 10,
-            "HitTime"     : 0.05,
-            "LoseDamage"  : 25
+            "LaserDamage": 10,
+            "HitTime": 0.05,
+            "LoseDamage": 25
         },
         "VehicleRepair": {
-            "Scale"     : 0.5,
-            "MaxTires"  : 6,
-            "MinTires"  : 2
+            "Scale": 0.5,
+            "MaxTires": 6,
+            "MinTires": 2
         }
     },
-    "DATA" : {
-        "Roles" : [
+    "DATA": {
+        "Roles": [
             {
-        		Name  : "New Arrival",
-        		Wins  : 0,
-        		Color : "#4ab1ff"
-        	},
-        	{
-        		Name  : "Survivor",
-        		Wins  : 1,
-        		Color : "#aeffd3"
-        	},
-        	{
-        		Name  : "Veteran Survivor",
-        		Wins  : 2,
-        		Color : "#eea7ff"
-        	},
-        	{
-        		Name  : "Escape Artist",
-        		Wins  : 4,
-        		Color : "#fff8d2"
-        	},
-        	{
-        		Name  : "Evasion Expert",
-        		Wins  : 8,
-        		Color : "#ffe6e7"
-        	},
-        	{
-        		Name : "Escape Specialist",
-        		Wins : 15,
-        		Color : "#e875ff"
-        	},
-        	{
-        		Name : "Apex Survivor",
-        		Wins : 20,
-        		Color : "#ff5d5d"
-        	}
+                "Name": "New Arrival",
+                "Wins": 0,
+                "Color": "#4ab1ff"
+            },
+            {
+                "Name": "Survivor",
+                "Wins": 1,
+                "Color": "#aeffd3"
+            },
+            {
+                "Name": "Veteran Survivor",
+                "Wins": 2,
+                "Color": "#eea7ff"
+            },
+            {
+                "Name": "Escape Artist",
+                "Wins": 4,
+                "Color": "#fff8d2"
+            },
+            {
+                "Name": "Evasion Expert",
+                "Wins": 8,
+                "Color": "#ffe6e7"
+            },
+            {
+                "Name": "Escape Specialist",
+                "Wins": 15,
+                "Color": "#e875ff"
+            },
+            {
+                "Name": "Apex Survivor",
+                "Wins": 20,
+                "Color": "#ff5d5d"
+            }
         ]
     }
 }
