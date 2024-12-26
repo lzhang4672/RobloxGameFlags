@@ -1,20 +1,20 @@
 {
     "NPCS": {
         "RobotDog": {
-            "Health": 70,
-            "Damage": 0.25,
+            "Health": 120,
+            "Damage": 0.35,
             "HealthFactor": 15,
-            "DamageFactor": 0.15
+            "DamageFactor": 0.25
         },
         "RepairRobot": {
-            "Health": 150,
+            "Health": 200,
             "HealthScale": 50,
-            "DrillDamage": 1,
+            "DrillDamage": 2.5,
             "DrillDamageScale": 0.15,
             "FlameThrowerDamage": [
-                10,
-                5,
-                3
+                15,
+                7,
+                6
             ],
             "FlameDuration": 7,
             "LaserDamage": 5,
@@ -38,7 +38,7 @@
         },
         "MovingCrushers": {
             "HitDamage": 4,
-            "HitMultiplier": 10,
+            "HitMultiplier": 15,
             "HitTime": 0.05,
             "DownTime": 1,
             "LoseDamage": 25,
