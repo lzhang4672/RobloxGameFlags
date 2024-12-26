@@ -2,7 +2,7 @@
     "NPCS": {
         "RobotDog": {
             "Health": 120,
-            "Damage": 0.35,
+            "Damage": 0.4,
             "HealthFactor": 15,
             "DamageFactor": 0.25
         },
@@ -17,7 +17,7 @@
                 6
             ],
             "FlameDuration": 7,
-            "LaserDamage": 5,
+            "LaserDamage": 10,
             "LaserDamageScale": 0.3,
             "SpinDamage": 8,
             "SpinDamageScale": 0.38
